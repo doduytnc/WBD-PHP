@@ -13,8 +13,8 @@
             border-bottom: 1px solid #ddd;
         }
         .thumbnail{
-            height: 128px;
-            width: 128px;
+            height: 48px;
+            width: 48px;
             overflow: hidden;
         }
         .thumbnail img{
